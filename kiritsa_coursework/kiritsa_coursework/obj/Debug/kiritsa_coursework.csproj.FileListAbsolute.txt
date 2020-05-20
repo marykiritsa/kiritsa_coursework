@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\kiritsa_coursework\kiritsa_coursework\bin\Debug\kiritsa_coursework.exe.config
+C:\Users\Alex\source\repos\kiritsa_coursework\kiritsa_coursework\bin\Debug\kiritsa_coursework.exe
+C:\Users\Alex\source\repos\kiritsa_coursework\kiritsa_coursework\bin\Debug\kiritsa_coursework.pdb
+C:\Users\Alex\source\repos\kiritsa_coursework\kiritsa_coursework\obj\Debug\kiritsa_coursework.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\kiritsa_coursework\kiritsa_coursework\obj\Debug\kiritsa_coursework.Form1.resources
+C:\Users\Alex\source\repos\kiritsa_coursework\kiritsa_coursework\obj\Debug\kiritsa_coursework.Properties.Resources.resources
+C:\Users\Alex\source\repos\kiritsa_coursework\kiritsa_coursework\obj\Debug\kiritsa_coursework.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\kiritsa_coursework\kiritsa_coursework\obj\Debug\kiritsa_coursework.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\kiritsa_coursework\kiritsa_coursework\obj\Debug\kiritsa_coursework.exe
+C:\Users\Alex\source\repos\kiritsa_coursework\kiritsa_coursework\obj\Debug\kiritsa_coursework.pdb
